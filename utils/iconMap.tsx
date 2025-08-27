@@ -567,6 +567,23 @@ import SeattleIcon from '@/assets/icons/licensed/seattle.svg'; // Example for a 
 import WashingtonIcon from '@/assets/icons/licensed/washington.svg'; // Example for a custom icon
 import SpecificIcon from '@/assets/icons/licensed/specific.svg'; // Example for a custom icon
 import GeneralIcon from '@/assets/icons/licensed/general.svg'; // Example for a custom icon
+import CabinetIcon from '@/assets/icons/licensed/cabinet.svg'; // Example for a custom icon
+import CoffeeTableIcon from '@/assets/icons/licensed/coffee_table.svg'; // Example for a custom icon
+import CounterIcon from '@/assets/icons/licensed/counter.svg'; // Example for a custom icon
+import EndTableIcon from '@/assets/icons/licensed/end_table.svg'; // Example for a custom icon
+import FreezerIcon from '@/assets/icons/licensed/freezer.svg'; // Example for a custom icon
+import KettleIcon from '@/assets/icons/licensed/kettle.svg'; // Example for a custom icon
+import MicrowaveIcon from '@/assets/icons/licensed/microwave.svg'; // Example for a custom icon
+import OvenIcon from '@/assets/icons/licensed/oven.svg'; // Example for a custom icon
+import PanIcon from '@/assets/icons/licensed/pan.svg'; // Example for a custom icon
+import PlateIcon from '@/assets/icons/licensed/plate.svg'; // Example for a custom icon
+import PotIcon from '@/assets/icons/licensed/pot.svg'; // Example for a custom icon
+import RefrigeratorIcon from '@/assets/icons/licensed/refrigerator.svg'; // Example for a custom icon
+import RugIcon from '@/assets/icons/licensed/rug.svg'; // Example for a custom icon
+import StereoIcon from '@/assets/icons/licensed/stereo.svg'; // Example for a custom icon
+import StoveIcon from '@/assets/icons/licensed/stove.svg'; // Example for a custom icon
+import ToasterIcon from '@/assets/icons/licensed/toaster.svg'; // Example for a custom icon
+import CurtainIcon from '@/assets/icons/licensed/curtain.svg'; // Example for a custom icon
 
 export const TextIcon: React.FC<{
   text: string;
@@ -651,6 +668,23 @@ export const GenericTextIcon: React.FC<{ word: string; size?: number }> = ({
 );
 
 export const iconMap: Record<string, React.FC<any>> = {
+  cabinet: CabinetIcon,
+  'coffee table': CoffeeTableIcon,
+  counter: CounterIcon,
+  curtain: CurtainIcon,
+  'end table': EndTableIcon,
+  freezer: FreezerIcon,
+  kettle: KettleIcon,
+  microwave: MicrowaveIcon,
+  oven: OvenIcon,
+  pan: PanIcon,
+  plate: PlateIcon,
+  pot: PotIcon,
+  refrigerator: RefrigeratorIcon,
+  rug: RugIcon,
+  stereo: StereoIcon,
+  stove: StoveIcon,
+  toaster: ToasterIcon,
   from: FromIcon,
   to: ToIcon,
   lazy: LazyIcon,

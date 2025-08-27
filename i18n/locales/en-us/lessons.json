@@ -1085,6 +1085,45 @@
     }
   },
   {
+    "living room vocab": {
+      "name": "living room vocab",
+      "__tags": ["living room", "furniture", "house"],
+      "__type": "vocabulary",
+      "__order": 49,
+      "__hidden": false,
+      "__vocab": {
+        "furniture": [
+          "sofa",
+          "couch",
+          "chair",
+          "table",
+          "coffee table",
+          "end table",
+          "lamp"
+        ],
+        "electronics": ["stereo", "television"],
+        "decorations": ["plant", "picture", "curtain", "rug"],
+        "misc": ["window", "door", "clock"]
+      }
+    }
+  },
+  {
+    "kitchen vocab": {
+      "name": "kitchen vocab",
+      "__tags": ["kitchen", "house", "appliances"],
+      "__type": "vocabulary",
+      "__order": 50,
+      "__hidden": false,
+      "__vocab": {
+        "room": ["kitchen"],
+        "appliances": ["stove", "oven", "refrigerator", "freezer", "microwave"],
+        "utensils": ["plate", "pan", "pot"],
+        "fixtures": ["cabinet", "counter", "sink"],
+        "misc": ["plate", "kettle", "window"]
+      }
+    }
+  },
+  {
     "places vocab": {
       "name": "places vocab",
       "__tags": ["places"],

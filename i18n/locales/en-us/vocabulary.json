@@ -10474,6 +10474,218 @@
     }
   },
   {
+    "cabinet": {
+      "__pos": "noun",
+      "__tags": ["furniture", "kitchen"],
+      "word": "cabinet",
+      "plural": "cabinets",
+      "translation_note": "",
+      "examples": [
+        "The dishes are in the cabinet.",
+        "She opened the cabinet to get a glass."
+      ]
+    }
+  },
+  {
+    "coffee table": {
+      "__pos": "noun",
+      "__tags": ["furniture", "living room"],
+      "word": "coffee table",
+      "plural": "coffee tables",
+      "translation_note": "",
+      "examples": [
+        "The coffee table is in front of the sofa.",
+        "She put magazines on the coffee table."
+      ]
+    }
+  },
+  {
+    "counter": {
+      "__pos": "noun",
+      "__tags": ["kitchen", "furniture"],
+      "word": "counter",
+      "plural": "counters",
+      "translation_note": "",
+      "examples": [
+        "The kitchen counter is clean.",
+        "She prepared food on the counter."
+      ]
+    }
+  },
+  {
+    "end table": {
+      "__pos": "noun",
+      "__tags": ["furniture", "living room"],
+      "word": "end table",
+      "plural": "end tables",
+      "translation_note": "",
+      "examples": [
+        "The lamp is on the end table.",
+        "She put her book on the end table."
+      ]
+    }
+  },
+  {
+    "freezer": {
+      "__pos": "noun",
+      "__tags": ["kitchen", "appliances"],
+      "word": "freezer",
+      "plural": "freezers",
+      "translation_note": "",
+      "examples": [
+        "The ice cream is in the freezer.",
+        "She keeps meat in the freezer."
+      ]
+    }
+  },
+  {
+    "kettle": {
+      "__pos": "noun",
+      "__tags": ["kitchen", "appliances"],
+      "word": "kettle",
+      "plural": "kettles",
+      "translation_note": "",
+      "examples": [
+        "She boiled water in the kettle.",
+        "The kettle is on the stove."
+      ]
+    }
+  },
+  {
+    "microwave": {
+      "__pos": "noun",
+      "__tags": ["kitchen", "appliances"],
+      "word": "microwave",
+      "plural": "microwaves",
+      "translation_note": "",
+      "examples": [
+        "She heats food in the microwave.",
+        "The microwave is next to the refrigerator."
+      ]
+    }
+  },
+  {
+    "oven": {
+      "__pos": "noun",
+      "__tags": ["kitchen", "appliances"],
+      "word": "oven",
+      "plural": "ovens",
+      "translation_note": "",
+      "examples": ["She baked a cake in the oven.", "The oven is hot."]
+    }
+  },
+  {
+    "pan": {
+      "__pos": "noun",
+      "__tags": ["kitchen", "cooking"],
+      "word": "pan",
+      "plural": "pans",
+      "translation_note": "",
+      "examples": ["She fried eggs in a pan.", "The pan is on the stove."]
+    }
+  },
+  {
+    "plate": {
+      "__pos": "noun",
+      "__tags": ["kitchen", "dishes"],
+      "word": "plate",
+      "plural": "plates",
+      "translation_note": "",
+      "examples": [
+        "She put food on the plate.",
+        "There are many plates in the cabinet."
+      ]
+    }
+  },
+  {
+    "pot": {
+      "__pos": "noun",
+      "__tags": ["kitchen", "cooking"],
+      "word": "pot",
+      "plural": "pots",
+      "translation_note": "",
+      "examples": [
+        "She cooked soup in a pot.",
+        "The pot is boiling on the stove."
+      ]
+    }
+  },
+  {
+    "refrigerator": {
+      "__pos": "noun",
+      "__tags": ["kitchen", "appliances"],
+      "word": "refrigerator",
+      "__synonyms": ["fridge"],
+      "synonym_notes": {
+        "fridge": "Informal term for refrigerator."
+      },
+      "plural": "refrigerators",
+      "translation_note": "",
+      "examples": [
+        "The milk is in the refrigerator.",
+        "She opened the refrigerator to get some juice."
+      ]
+    }
+  },
+  {
+    "rug": {
+      "__pos": "noun",
+      "__tags": ["furniture", "living room"],
+      "word": "rug",
+      "plural": "rugs",
+      "translation_note": "",
+      "examples": [
+        "The rug is soft and colorful.",
+        "She vacuumed the rug in the living room."
+      ]
+    }
+  },
+  {
+    "stereo": {
+      "__pos": "noun",
+      "__tags": ["technology", "living room"],
+      "word": "stereo",
+      "plural": "stereos",
+      "translation_note": "",
+      "examples": ["She listens to music on the stereo.", "The stereo is loud."]
+    }
+  },
+  {
+    "stove": {
+      "__pos": "noun",
+      "__tags": ["kitchen", "appliances"],
+      "word": "stove",
+      "plural": "stoves",
+      "translation_note": "",
+      "examples": ["She cooks dinner on the stove.", "The stove is hot."]
+    }
+  },
+  {
+    "toaster": {
+      "__pos": "noun",
+      "__tags": ["kitchen", "appliances"],
+      "word": "toaster",
+      "plural": "toasters",
+      "translation_note": "",
+      "examples": [
+        "She made toast in the toaster.",
+        "The toaster is on the counter."
+      ]
+    }
+  },
+  {
+    "curtain": {
+      "__pos": "noun",
+      "__tags": ["home", "decor"],
+      "word": "curtain",
+      "plural": "curtains",
+      "examples": [
+        "She closed the curtain for privacy.",
+        "The curtains covered the window."
+      ]
+    }
+  },
+  {
     "cousin": {
       "__pos": "noun",
       "__tags": ["family", "people"],
