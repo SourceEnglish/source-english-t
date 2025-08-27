@@ -1,0 +1,174 @@
+[
+  {
+    "_id": "present_simple_header",
+    "__lessons": ["present simple"],
+    "__order": 1,
+    "__type": "header",
+    "text": "Present Simple"
+  },
+  {
+    "_id": "present_simple_intro",
+    "__lessons": ["present simple"],
+    "__order": 2,
+    "__type": "paragraph",
+    "text": "The present simple is used to talk about habits, routines, and facts."
+  },
+  {
+    "_id": "present_simple_subject_verb_agreement_header",
+    "__lessons": ["present simple"],
+    "__order": 3,
+    "__type": "header",
+    "text": "Subject-Verb Agreement in Present Simple"
+  },
+  {
+    "_id": "present_simple_subject_verb_agreement_paragraph",
+    "__lessons": ["present simple"],
+    "__order": 3.1,
+    "__type": "paragraph",
+    "text": "In the present simple, the verb form changes depending on the subject. For most verbs, add -s or -es to the base form when the subject is he, she, or it."
+  },
+  {
+    "_id": "present_simple_usage_table",
+    "__lessons": ["present simple"],
+    "__order": 3.2,
+    "__type": "table",
+    "header": "How to use the present simple",
+    "__headers": [
+      { "text": "Subject", "__type": "text" },
+      { "text": "Verb", "__type": "text" },
+      { "text": "Example", "__type": "text" }
+    ],
+    "__entries": [
+      { "__type": "text", "text": "I, you, we, they" },
+      { "__type": "text", "text": "base form (work, play, eat)" },
+      { "__type": "text", "text": "I work every day." },
+      { "__type": "text", "text": "He, she, it" },
+      { "__type": "text", "text": "verb + s/es (works, plays, eats)" },
+      { "__type": "text", "text": "She plays tennis." }
+    ]
+  },
+
+  {
+    "_id": "present_simple_facts_header",
+    "__lessons": ["present simple"],
+    "__order": 4,
+    "__type": "header",
+    "text": "Examples of Facts"
+  },
+  {
+    "_id": "present_simple_facts_1",
+    "__lessons": ["present simple"],
+    "__order": 4.1,
+    "__type": "quote",
+    "text": "The sun rises in the east."
+  },
+  {
+    "_id": "present_simple_facts_2",
+    "__lessons": ["present simple"],
+    "__order": 4.2,
+    "__type": "quote",
+    "text": "Water boils at 100°C."
+  },
+  {
+    "_id": "present_simple_facts_3",
+    "__lessons": ["present simple"],
+    "__order": 4.3,
+    "__type": "quote",
+    "text": "I am 25 years old."
+  },
+  {
+    "_id": "present_simple_routines_header",
+    "__lessons": ["present simple"],
+    "__order": 5,
+    "__type": "header",
+    "text": "Examples of Routines"
+  },
+  {
+    "_id": "present_simple_routines_carousel",
+    "__lessons": ["present simple"],
+    "__order": 5.05,
+    "__type": "vocabularyCarousel",
+    "__words": [
+      "wake up",
+      "get up",
+      "wash",
+      "brush_(verb)",
+      "wash",
+      "shower",
+      "get dressed",
+      "cook",
+      "cook (verb)",
+      "eat"
+    ]
+  },
+  {
+    "_id": "present_simple_routines_1",
+    "__lessons": ["present simple"],
+    "__order": 5.1,
+    "__type": "quote",
+    "text": "I wake up at 7 o'clock."
+  },
+  {
+    "_id": "present_simple_routines_2",
+    "__lessons": ["present simple"],
+    "__order": 5.2,
+    "__type": "quote",
+    "text": "She gets up early."
+  },
+  {
+    "_id": "present_simple_routines_3",
+    "__lessons": ["present simple"],
+    "__order": 5.3,
+    "__type": "quote",
+    "text": "We wash our hands before eating."
+  },
+  {
+    "_id": "present_simple_routines_4",
+    "__lessons": ["present simple"],
+    "__order": 5.4,
+    "__type": "quote",
+    "text": "He brushes his teeth every morning."
+  },
+  {
+    "_id": "present_simple_routines_5",
+    "__lessons": ["present simple"],
+    "__order": 5.5,
+    "__type": "quote",
+    "text": "They shower at 7:00 am."
+  },
+  {
+    "_id": "present_simple_routines_5.5",
+    "__lessons": ["present simple"],
+    "__order": 5.5,
+    "__type": "quote",
+    "text": "I get dressed before school."
+  },
+  {
+    "_id": "present_simple_routines_6",
+    "__lessons": ["present simple"],
+    "__order": 5.6,
+    "__type": "quote",
+    "text": "My mother cooks breakfast every morning."
+  },
+  {
+    "_id": "present_simple_routines_7",
+    "__lessons": ["present simple"],
+    "__order": 5.7,
+    "__type": "quote",
+    "text": "We eat breakfast together."
+  },
+  {
+    "_id": "present_simple_video_header",
+    "__lessons": ["present simple"],
+    "__order": 11,
+    "__type": "header",
+    "text": "Video: present simple"
+  },
+  {
+    "_id": "present_simple_video",
+    "__lessons": ["present simple"],
+    "__order": 12,
+    "__type": "video",
+    "__src": "https://www.youtube.com/watch?v=nvVdIJ0las0"
+  }
+]

@@ -988,6 +988,7 @@
       "__vocab": {
         "furniture": ["table", "chair", "couch", "sofa", "bed", "desk"],
         "decorations": ["plant", "picture"],
+        "lighting": ["light", "lamp"],
         "fixtures": ["sink", "toilet", "shower_(noun)"],
         "electronics": ["television", "computer"]
       }
@@ -1012,13 +1013,13 @@
       "__hidden": false,
       "__vocab": {
         "prepositions of place": [
+          "on_(preposition_of_place)",
           "above",
           "under",
           "below",
           "in",
           "in front of",
           "behind",
-          "beside",
           "next to",
           "between",
           "across from",
@@ -1401,6 +1402,39 @@
           "quotation mark",
           "hyphen",
           "decimal point"
+        ]
+      }
+    }
+  },
+  {
+    "present simple": {
+      "name": "present simple",
+      "__tags": ["grammar", "tense", "present simple"],
+      "__type": "lesson",
+      "__order": 47,
+      "__hidden": false,
+      "__vocab_lesson": "present simple vocab"
+    }
+  },
+  {
+    "present simple vocab": {
+      "name": "present simple vocab",
+      "__tags": ["grammar", "tense", "present simple"],
+      "__type": "vocabulary",
+      "__order": 48,
+      "__lesson": "present simple",
+      "__hidden": false,
+      "__vocab": {
+        "morning routine": [
+          "wake up",
+          "get up",
+          "wash",
+          "brush_(verb)",
+          "shower",
+          "get dressed",
+          "cook",
+          "eat",
+          "clean"
         ]
       }
     }

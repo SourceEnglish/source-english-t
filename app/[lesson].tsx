@@ -18,6 +18,7 @@ import illnessesSections from '@/i18n/locales/en-us/sections/illnesses.json';
 import pluralNounsSections from '@/i18n/locales/en-us/sections/plural nouns.json';
 import partsOfSpeech1Sections from '@/i18n/locales/en-us/sections/parts of speech 1.json';
 import prepositionsOfTimeSections from '@/i18n/locales/en-us/sections/prepositions of time.json';
+import presentSimpleSections from '@/i18n/locales/en-us/sections/present simple.json';
 
 const sectionsData = [
   ...yesOrNoQuestionsSections,
@@ -36,6 +37,7 @@ const sectionsData = [
   ...pluralNounsSections,
   ...partsOfSpeech1Sections,
   ...prepositionsOfTimeSections,
+  ...presentSimpleSections,
 ];
 import vocabularyData from '@/i18n/locales/en-us/vocabulary.json';
 import VocabCard from '@/components/VocabCard';
