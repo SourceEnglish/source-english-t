@@ -108,6 +108,7 @@ import Gray from '@/assets/icons/licensed/gray.svg'; // Example for a custom ico
 import Black from '@/assets/icons/licensed/black.svg';
 import ColorIcon from '@/assets/icons/licensed/color.svg'; // Example for a custom icon
 import ColorWheelIcon from '@/assets/icons/licensed/color_wheel.svg'; // Example for a custom icon
+import CleanIcon from '@/assets/icons/licensed/clean.svg'; // Example for a custom icon
 
 import HusbandIcon from '@/assets/icons/licensed/husband.svg'; // Add this import
 import WifeIcon from '@/assets/icons/licensed/wife.svg'; // Add this import
@@ -1110,6 +1111,7 @@ export const iconMap: Record<string, React.FC<any>> = {
   'across from': AcrossFromIcon,
   around: AroundIcon,
   behind: BehindIcon,
+  'on (preposition of place)': OnPrepositionIcon,
   'on_(preposition_of_place)': OnPrepositionIcon,
   below: BelowIcon,
   beside: BesideIcon,
@@ -1287,6 +1289,7 @@ export const iconMap: Record<string, React.FC<any>> = {
   shy: ShyIcon, // Example for a custom icon
   sorry: SorryIcon, // Example for a custom icon
   'get dressed': GetDressedIcon,
+  clean: CleanIcon,
 
   // ...etc
 };
