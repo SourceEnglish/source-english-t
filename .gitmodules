@@ -1,0 +1,3 @@
+[submodule "source-english-lessons"]
+	path = source-english-lessons
+	url = https://github.com/Hadddock/source-english-lessons.git
